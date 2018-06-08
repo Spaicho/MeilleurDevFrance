@@ -8,7 +8,7 @@
 package mdf;
 import java.util.*;
 
-public class IsoContest {
+public class Demineur {
     public static class Coord {
         public int x;
         public int y;
